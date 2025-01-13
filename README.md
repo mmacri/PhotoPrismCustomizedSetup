@@ -56,14 +56,14 @@ Ensure the following software is installed:
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/your-repo/photoprism-setup.git
-cd photoprism-setup
+git clone https://github.com/mmacri/PhotoPrismCustomizedSetup/setup_photprism.git
+cd PhotoPrismCustomizedSetup
 ```
 
 ### Step 2: Run the Setup Script
 
 ```bash
-bash setup_photoprism_public.sh
+bash setup_photoprism_customizeme.sh
 ```
 
 ### Step 3: Follow the Prompts
@@ -171,7 +171,7 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ## Contributing
 
-Contributions are welcome! Submit issues or pull requests on [GitHub](https://github.com/your-repo/photoprism-setup).
+Contributions are welcome! Submit issues or pull requests on [GitHub](https://github.com/mmacri/pPhotoPrismCustomizedSetup/).
 ```
 
 ---
