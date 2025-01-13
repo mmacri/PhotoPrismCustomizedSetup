@@ -56,7 +56,7 @@ Ensure the following software is installed:
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/mmacri/PhotoPrismCustomizedSetup/setup_photprism.git
+git clone https://github.com/mmacri/PhotoPrismCustomizedSetup.git
 cd PhotoPrismCustomizedSetup
 ```
 
