@@ -173,12 +173,3 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 Contributions are welcome! Submit issues or pull requests on [GitHub](https://github.com/mmacri/pPhotoPrismCustomizedSetup/).
 ```
-
----
-
-### **Summary of Changes**
-1. Improved structure and order for logical flow.
-2. Expanded troubleshooting and customization guidance.
-3. Added examples for customization prompts.
-4. Detailed project outputs and folder structure.
-5. Enhanced security recommendations.
