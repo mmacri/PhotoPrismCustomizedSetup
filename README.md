@@ -1,4 +1,4 @@
-# PhotoPrism and Portainer Setup Script
+# PhotoPrism and Portainer full automation Setup Script
 
 This repository provides a complete script for setting up the PhotoPrism stack, which includes:
 - **PhotoPrism**: A powerful photo management application.
@@ -165,7 +165,7 @@ photoprism-setup/
 
 ## License
 
-This project is licensed under the MIT License. See the `LICENSE` file for details.
+This project is licensed as gnu opensource. open the `LICENSE` file for details. the creator of this script is only licensing the setup script provided.  all other files referenced and used in the script are managed under their own license agreements. 
 
 ---
 
