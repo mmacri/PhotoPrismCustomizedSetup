@@ -171,5 +171,5 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ## Contributing
 
-Contributions are welcome! Submit issues or pull requests on [GitHub](https://github.com/mmacri/pPhotoPrismCustomizedSetup/).
+Contributions are welcome! Submit issues or pull requests on [GitHub](https://github.com/mmacri/PhotoPrismCustomizedSetup/).
 
